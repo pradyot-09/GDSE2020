@@ -59,7 +59,7 @@ Six dimensions to measure cultural differences :
 
 GDSE Research Areas: 
 
-![Allen Curve](curva-allen-curve.png)
+![Allen Curve](/images/curva-allen-curve.png)
 
 ** Out of sight, out of mind **
 
