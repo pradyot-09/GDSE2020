@@ -80,3 +80,27 @@ Quest for GDSE: creating the virtual 50 meters
 
 People Factors: 
 1) people need to know each other : e.g cultural awareness, be nice and professional, Rhythm and transparency.
+
+## Module 2
+
+Agile in GDSE.
+
+### Lean
+Toyota production system = Lean
+
+Lean in a nutshell :
+1) respect for people (craftmanship)
+2) Flow (Just in Time, Pull)
+3) Contnuous improvement
+
+![Lean Principles](/images/lean.png)
+
+### Scrum
+
+![Scrum Process](/images/scrum.jpg)
+
+### Agile Manifesto
+
+- **Individuals** and **interactions** over processes and tools
+- Working software over comprehensive documentation
+- Customer Collaboration over contract negotiation
