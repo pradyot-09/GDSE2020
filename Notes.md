@@ -93,7 +93,7 @@ Lean in a nutshell :
 2) Flow (Just in Time, Pull)
 3) Contnuous improvement
 
-![Lean Principles](/images/lean.png)
+![Lean Principles](/images/Lean.png)
 
 ### Scrum
 
@@ -104,3 +104,25 @@ Lean in a nutshell :
 - **Individuals** and **interactions** over processes and tools
 - Working software over comprehensive documentation
 - Customer Collaboration over contract negotiation
+- Responding to change over following a plan
+
+### scaling Agile
+- SAFe: Scaled Agile Framework
+- Scrum of Scrums
+- Enterprise Scrum
+- Nexus
+- Less
+If you have multiple scrum teams they need to **Synchroize** them timely. (To show a product as a whole). Chop the job chunk to fit into 3 months cycle for the teams.
+
+### Distributed Scrum and Scrum Values
+
+![Scrum Values](/images/scrum_values.png)
+
+*Example* : get team together to get them agrreing on how they are going to work together. Then distribute them and work with video conferencing.
+
+**Constant Communiaction** is key for distributed scrum.
+- Get everybody in the same room time to time
+- Using video communication is important in scrum.
+- Minimize email, use slack for asynchronous information.
+- Regularly Swarm via video (just to talk)
+- Tools and techniques should be same in all locations
