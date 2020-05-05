@@ -126,3 +126,102 @@ If you have multiple scrum teams they need to **Synchroize** them timely. (To sh
 - Minimize email, use slack for asynchronous information.
 - Regularly Swarm via video (just to talk)
 - Tools and techniques should be same in all locations
+
+#### Discussion
+-Scrum meetings are goal binded and time boxed.
+- scrum enforces role clarity and coordination responsibilty on team
+- It has two backlogs : 1) product backlog (all the possibilities and future work) 2) sprint backlog (what we will do now for teams)
+
+- agile enforces to get control on product (working product)
+
+
+
+## Module 3
+
+
+## Automation in GDSE (CI/CD)
+
+(Prajeeth Pradhap)
+### why automation in distributed teams?
+
+- Repeated **Human error** in process technology delivery
+- Different **locations** and **cultures**
+- Automation makes processes **run faster**
+- Automation is about **communicating** very precisely with others about how the task or process should be executed.
+
+### Automate the Infrastructures
+- **stable** and **consistent** infrastructure across **different locations**
+- Everyone works with same **same standards**
+- Eliminate **location silo's**
+- Effective **knowledge sharing** 
+- reduces manual dependencies on other processes like buil,test,release. Also, brings endurance in team policies and practices
+
+### Challenges for distributed teams
+- **Onboarding a new team member** to the team
+- setting up the right **infrastructure**
+- Giving **permissions**
+- Understanding **quality guidelines** and **practices**
+
+Automation scales all of the above problems with capabilities of **disaster recovery**.
+
+### Do's and Dont's of Automation
+1) A separate siloed automation team
+- Don't create **separate** siloed automation team
+- The main goal of automation is to **break silo's**
+- Automation removes the **barriers** between coding, release and testing
+- Silo's lead to the **blame-game**
+
+2) Automation is a team responsibilities
+- Don't make decisions in one part of the team and assign the work to another part of the team. (creates differences. solve by travelling and discussing )
+- create **work sharing**
+- stable **CI builders**
+- create a **common understanding** of the team practices 
+
+3) Configuration Drift
+- Phenomenon where the system and infrastructure become more and more different as time goes on
+- Happens due to making manaully adopted changes
+- A **configuration tool** can help (keeps check on desired state of infrastructure)
+
+4) Look at non-automation as technical debt
+- Sometimes you need to create a **quick and dirty** fix
+- Considered these as **technical debt**
+- Push them on **backlog** for proper fixing
+
+5) Treat automation code as production code
+- Maintain the same quality checks and standards as for production code
+- prevent from technical debt
+- Risk: temas will **loose interest** for automation
+
+### Working Experience : Prajeesh Pradhap
+- **Communication** is most important
+- tools : github, trello, slack etc
+- overlapping hours helps 
+- avoid low bandwidth communication (email,doc)
+- follow agile and ensure software quality
+
+
+(Erik Ammerlaan)
+### What is Continuous Delivery
+- pipeline : code commit,build,unit tests, integration tests, acceptance tests (end to end test), deployment to production (automatic in CD)
+
+- Whole point of CI/CD is to reach to customer faster
+- What we think users want is not always what users really want.So, we end up building wrong things.
+
+- CD keeps application in **realeasable state** and automation reduces **people dependencies**
+
+- CD is all about **communication** . CD enables visibility and context (quick feedback to developers)
+
+### Continuous Delivery at Exact
+- use GitHub enterprise with Jenkins (for CI/CD). Then jenkins builds on Docker container which is monitored by black duck hub (libraries and licences) and SonarQube. Then use Octopus deploy to deploy to production(or staging).
+
+- Docker containers are launched on the fly : **Isolation, reliability and automation **
+- More efficient use of hardware : **Elasticity**
+
+### Tips and tricks
+- Start with CD as soon as possible
+- Avoid randomly broken builds : Builds should onlh fail if the software is incorrect.
+- Avoid False negatives (Software is actually broken,accept mistakes will happen and learn)
+- Script everything : use pipeline as code, containerize your build agents
+- Use CI on branches for short feedback loops : this gives early feedback to dev
+
+### Interview (Erik Ammerlaan)
