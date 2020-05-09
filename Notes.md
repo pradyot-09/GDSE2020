@@ -225,3 +225,62 @@ Automation scales all of the above problems with capabilities of **disaster reco
 - Use CI on branches for short feedback loops : this gives early feedback to dev
 
 ### Interview (Erik Ammerlaan)
+
+## Module  4
+
+## Boardroom 
+
+### Distributed Leadership (Suzanne Kelder)
+
+#### Outsourcing from decision making perspective
+1) why outsourcing?
+  - cost
+  - Quality
+  - Focus on what you really need to do
+  
+2) What is supposed to be outsourced? -> draw a plan or working agrrement
+  - context
+  - What are the boundries
+  - what works? what not?
+  - growth-path or not?
+  - Alone or together with a vendor?
+
+3) How to manage outsourcing? -> From plan to reality
+  - How am I going to manage this?
+  - Which KPI's do I want to steer on
+  - Penalties and rewards
+  - Make the plan work for you, intead against you
+  
+ 
+  Basically go through vendor selection process
+  
+  4) Make a transformation plan for your organisation
+    - Transition Phase (cost? time?)
+    - Transformation Phase (Internally but how?)
+   
+   Plan uprfront (before outsourcing) what to do if things go wrong. 
+   
+  5) Legal Aspects
+    - data (allowed to leave EU? )
+    
+ steer the ventor but don't micromanage it.
+ 
+ 
+ 
+ #### Do's and Dont's of Outsourcing
+
+- Invest in personnel relationships (get to know vendors personally, corporate and operational people both)
+- Give and take and create a win-win plan (don't take all the credits. Don't squeeze too hard/ put pressure)
+- Be  honest and transparent and fact-based
+- Do not balme each other
+
+##### Pitfalls
+
+- Distributed agile -> Don't have people for a too long period onshore (together only for kick off). How to mix offshore and onshore?  -> work harder on team aspects
+
+- The highest impact is to be found on an operational level. Keep eye on operational level to know the difficulties faced at that level. transformation should be workable on operational level.
+- The Dashboard is green but success is not there -> wrong KPI's
+
+- Transformation phase : starts deviating from your original goals. So don't delay transformation
+
+  
