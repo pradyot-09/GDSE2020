@@ -26,25 +26,17 @@ Moreover, developing AI and ML based software needs workforce with expertise suc
 
 Due to rising need of rapid adaptation to customer demands, stricter quality controls and intellectual property protection; IT services and sofware development companies might look forward to nearshore their activities [3].
 
-One of the mains risks of nearshoring is security. This can not only include data security, but also the security of the employees and the offices. While data security can be maintained in the cloud, putting employees at risk can present its own set of problems. If the office is in a dangerous location, or the team members are at risk, it will surely affect the quality of work.
-In terms of security, some parts in Latin America have been identified as “dangerous” due to high rates of crime. However, some countries in the region have registered a reduction of urban violence and crime. A clear example of this is the city of Medellin in Colombia. The city has gone from being dubbed as “the most dangerous city on earth” to the “Silicon Valley of South America” in less than three decades.
+However, one of the mains risks of nearshoring is security. This can not only include data security, but also the security of the employees and the offices. While data security can be maintained in the cloud, putting employees at risk can present its own set of problems. If the office is in a dangerous location (for example some Latin Amterican cities), or the team members are at risk, it will surely affect the quality of work [6].
+
 ## Geographical Proximity and Need of Increased Integration into Organisation
 
-Being geographically close is not only convenient for executives, but it also means that travel costs can be reduced dramatically (this applies to executives and team members that need to travel). It takes an average of 25 hours to travel from the U.S. to an offshore location in India or Asia.
+Being geographically close is not only convenient for executives, but it also means that travel costs can be reduced dramatically (this applies to executives and team members that need to travel). For example, it takes an average of 25 hours to travel from the U.S. to an offshore location in India or Asia.
 
-While India and China are still in the lead in terms of software outsourcing popularity, geography will become more of a consideration as many other regions are becoming just as popular.
+While India and China are still in the lead in terms of software development farshoring popularity, geography will become more of a consideration as many other regions are becoming just as popular.
 
-The geographical location of your software outsourcing team can have a massive impact on results. Issues like intercultural communication and time differences can have a significantly negative impact on project outcomes.
-
-For this reason, as the market matures and more regions offer attractive IT outsourcing options, the more companies will be likely to look closer to home.
-
-For example, for companies in the U.S., Latin America is a far better option than India or China. The shorter distance means its much easier to hold in-person meetings with your software development outsourcing team.
-
-Furthermore, practically non-existent time differences allow for real-time communication. This can significantly reduce delays and mistakes.
-
-Additionally, since Latin America and the U.S. have a long history of trade, intercultural communication is far easier. Colombians, for example, understand American culture and what is expected, and vice versa.
+The geographical location of your software outsourcing team can have a massive impact on results. Issues like intercultural communication and time differences can have a significantly negative impact on project outcomes.For this reason, as the market matures and more regions offer attractive IT outsourcing options, the more companies will be likely to look closer to home. The shorter distance means its much easier to hold in-person meetings with your software development outsourcing team.
  
- It might sound counterintuitive but IT outsourcing teams will have to be integrated into the organization as if they were an internal team. This applies to every aspect of the relationship, from instituting similar DevSecOps processes to building a relationship as if they worked in the same office. Otherwise, innovation will remain beyond your grasp in the areas you are outsourcing.
+It might sound counterintuitive but IT outsourcing teams will have to be integrated into the organization as if they were an internal team. This applies to every aspect of the relationship, from instituting similar DevSecOps processes to building a relationship as if they worked in the same office. Otherwise, innovation will remain beyond your grasp in the areas you are outsourcing [7].
 
 Innovation stems from creativity, and the latter is amplified by trust. It's difficult for a team to be creative if they don't understand the person and/or organization they are working with.
 
@@ -54,8 +46,8 @@ Otherwise, if you limit your interactions to a few impersonal calls every now an
 
 Furthermore, when you treat your software outsourcing team as part of your organization, you will apply the same standards, checks, and processes as you do internally. This is especially important when it comes to security, which is becoming a serious concern.
  
- 
-The future is certainly bright for software development outsourcing as the market will continue to grow. After all, an increasing number of companies are turning to outsourcing so they can take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
+We discussed several factors which will likely drive the trend of nearshoring in near future. The future looks quite bright for software development nearshoring as the market will continue to grow and some comapnies start to think about reshoring (then settle for nearshoring). After all, nearshoring companies to be economical as well as take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
+
 # References
 
 [1]: Micek, G., DziaŁek, J., & Górecki, J. (2011). The discourse and realities of offshore business services to Kraków. European Planning Studies, 19(9), 1651–1668. [link](https://doi-org.tudelft.idm.oclc.org/10.1080/09654313.2011.586195)
@@ -67,3 +59,7 @@ The future is certainly bright for software development outsourcing as the marke
 [4] NetConsulting. (2014). Il nearshoring made in Italy. Opportunità e vantaggi. [link](https://d3alc7xa4w7z55.cloudfront.net/static/upload/protected/201/0108/2014focusfinconscs_whitepapernearshore.pdf)
 
 [5]: Jen DuBois. Is There a Data Scientist Shortage in 2019? [link](https://quanthub.com/is-there-a-data-scientist-shortage-in-2019/)
+
+[6]: Allan Seeman. Why is Nearshoring a Smart Alternative for Software Development? [link](https://webcreek.com/en/blog/business/nearshoring-software-development-smart-alternative/)
+
+[7]: PSL Corp. IT Outsourcing: A Look at What the Future Holds. [link](https://www.pslcorp.com/nearshoring-outsourcing/it-outsourcing-a-look-at-what-the-future-holds-1/)
