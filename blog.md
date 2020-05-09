@@ -30,22 +30,15 @@ However, one of the mains risks of nearshoring is security. This can not only in
 
 ## Geographical Proximity and Need of Increased Integration into Organisation
 
-Being geographically close is not only convenient for executives, but it also means that travel costs can be reduced dramatically (this applies to executives and team members that need to travel). For example, it takes an average of 25 hours to travel from the U.S. to an offshore location in India or Asia.
+The geographical location of your software outsourcing team can have a massive impact on results. We have discussed issues like intercultural communication and time differences which can have a significantly negative impact on software developers outcomes [7]. For this reason, in future as more and more regions offer attractive IT outsourcing options, the more companies will be likely to look closer to home. Shorter distance would mean its much easier to hold in-person meetings with your software development outsourcing team.
 
-While India and China are still in the lead in terms of software development farshoring popularity, geography will become more of a consideration as many other regions are becoming just as popular.
+Being geographically close is not only convenient for executives, but it also means that travel costs can be reduced dramatically. For example, it takes an average of 25 hours to travel from the U.S. to an offshore location in India or Asia [8].
 
-The geographical location of your software outsourcing team can have a massive impact on results. Issues like intercultural communication and time differences can have a significantly negative impact on project outcomes.For this reason, as the market matures and more regions offer attractive IT outsourcing options, the more companies will be likely to look closer to home. The shorter distance means its much easier to hold in-person meetings with your software development outsourcing team.
+In Globally Distributed Software Engineering (GDSE) it is important that everyone works with same standards and in the same kind of environment. Hence, in future software development will have to be integrated into the organization as if they were an internal team. This applies to every aspect of the relationship, from instituting similar DevOps processes to building a relationship as if they worked in the same office [8]. 
+
+Innovation stems from creativity, and the latter is amplified by trust. It's difficult for a team to be innovative and creative if they don't understand the person and organization they are working with. There is very low motivation to attempt any form of innovation if the organization contracting their services doesn't show interest in them. Furthermore, treatng software outsourcing team as part of  organization will result in applying the same standards, checks, and processes as done internally in the organisation. This is especially important and useful when it comes to security, which is becoming a serious concern.
  
-It might sound counterintuitive but IT outsourcing teams will have to be integrated into the organization as if they were an internal team. This applies to every aspect of the relationship, from instituting similar DevSecOps processes to building a relationship as if they worked in the same office. Otherwise, innovation will remain beyond your grasp in the areas you are outsourcing [7].
 
-Innovation stems from creativity, and the latter is amplified by trust. It's difficult for a team to be creative if they don't understand the person and/or organization they are working with.
-
-There's also little motivation to attempt any form of innovation if the organization contracting their services doesn't show interest in them.
-
-Otherwise, if you limit your interactions to a few impersonal calls every now and then, you can't expect a software development outsourcing team to deliver more than you asked. You certainly shouldn't expect creative or innovative approaches.
-
-Furthermore, when you treat your software outsourcing team as part of your organization, you will apply the same standards, checks, and processes as you do internally. This is especially important when it comes to security, which is becoming a serious concern.
- 
 We discussed several factors which will likely drive the trend of nearshoring in near future. The future looks quite bright for software development nearshoring as the market will continue to grow and some comapnies start to think about reshoring (then settle for nearshoring). After all, nearshoring companies to be economical as well as take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
 
 # References
@@ -62,4 +55,7 @@ We discussed several factors which will likely drive the trend of nearshoring in
 
 [6]: Allan Seeman. Why is Nearshoring a Smart Alternative for Software Development? [link](https://webcreek.com/en/blog/business/nearshoring-software-development-smart-alternative/)
 
-[7]: PSL Corp. IT Outsourcing: A Look at What the Future Holds. [link](https://www.pslcorp.com/nearshoring-outsourcing/it-outsourcing-a-look-at-what-the-future-holds-1/)
+[7]: Khan, Arif & Keung, Jacky & Hussain, Shahid & Bennin, Kwabena. (2015). Effects of Geographical, Socio-cultural and Temporal Distances on Communication in Global Software Development during Requirements Change Management: A Pilot Study. ENASE 2015 - Proceedings of the 10th International Conference on Evaluation of Novel Approaches to Software Engineering. [link](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0005331401590168). 
+
+[8]: PSL Corp. IT Outsourcing: A Look at What the Future Holds. [link](https://www.pslcorp.com/nearshoring-outsourcing/it-outsourcing-a-look-at-what-the-future-holds-1/)
+
