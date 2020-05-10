@@ -274,7 +274,7 @@ Automation scales all of the above problems with capabilities of **disaster reco
 - Be  honest and transparent and fact-based
 - Do not balme each other
 
-##### Pitfalls
+#### Pitfalls
 
 - Distributed agile -> Don't have people for a too long period onshore (together only for kick off). How to mix offshore and onshore?  -> work harder on team aspects
 
@@ -283,4 +283,26 @@ Automation scales all of the above problems with capabilities of **disaster reco
 
 - Transformation phase : starts deviating from your original goals. So don't delay transformation
 
-  
+#### Interview : Suzanne Kelder
+- GDSE in future for quality than cost
+
+### Top-5 lessons learned for selecting a near or offshore vendor (Svenja de Vos)
+
+1) Check Agile (SCRUM/lean) competence.
+2) FInd a company that is willing to invest in agile, automation,tooling and especially culture and people
+3) Pick the right size comapny -> pick company suitable to your company size
+4) Don't judge only on price -> loo at possibilities, culture fit, competence (also skill and keeping people)
+5) Site visits are a must do. (talk to employess and ask questions)
+
+#### Top-4 lessons learnt from practice for GDSE
+1) Start with mixed (onshore and offshore) teams in an agile setup.
+2) Use only partners no vendors. (make sure you get in partnership contract)
+3) It's a people business. Very important to be in contact of people.
+4) Don't think that you don't need to manage. Manage output and freedom
+
+#### GSE and physical components
+1) Embrace the facts. (embrace hardware limitation)
+2) Automation is key. make automation investment upfront.
+3) Cooperation and collaboration. Keep everyone aligned and updated
+
+#### Interview : Svejna de Vos
