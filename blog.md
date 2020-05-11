@@ -1,3 +1,17 @@
+# Introduction
+
+Hi folks!.....xyz
+
+We can say that outsourcing has given birth to Globally Distributed Software Engineering  (GDSE). Outsourcing can be formally defined as engaging with third-party vendors on a contract basis to deliver a specific deliverable. In context of software engineering, outsourcing involves the transfer of software development activities of an IT firm. The aim is to focus on business value, scale up software development and reduction in services supplied internally within the company. 
+
+Outsourcing is usually operated with the aim of gaining cost benefits. Especially development and fixed costs can be reduced significantly. For example, if a company is more focused on business matters and strengthening its creativity, outsourcing software development to a company who specialises in this sector could allow the business to minimise additional costs and improve quality. As a consequence, the company can improve it's market position, on both strategic and functional levels.
+
+## what is nearshoring?
+Nearshoring is outsourcing software development to vendors/companies in near by country with respect to home country of the firm. This is often (not necessarily) a country sharing border with the home country. It can be regarded as opposite of Farshoring.
+
+## What is Offshoring?
+Offshoring refers to the practice of contracting work to a vendor in a different country. Normally, it refers to a significant distance (across ocean) away from home country of organization. In this series of blog posts, we use term "offshoring" and "farshoring" in an exchangable manner.
+
 # Future of Nearshoring
 ## Questions
 
