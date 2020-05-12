@@ -1,28 +1,14 @@
-# Introduction
+# The future of nearshoring
 
-Hi folks!.....xyz
+## Nearshoring in the context of GDSE: Part 3
 
-We can say that outsourcing has given birth to Globally Distributed Software Engineering  (GDSE). Outsourcing can be formally defined as engaging with third-party vendors on a contract basis to deliver a specific deliverable. In context of software engineering, outsourcing involves the transfer of software development activities of an IT firm. The aim is to focus on business value, scale up software development and reduction in services supplied internally within the company. 
 
-Outsourcing is usually operated with the aim of gaining cost benefits. Especially development and fixed costs can be reduced significantly. For example, if a company is more focused on business matters and strengthening its creativity, outsourcing software development to a company who specialises in this sector could allow the business to minimise additional costs and improve quality. As a consequence, the company can improve it's market position, on both strategic and functional levels.
+This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our first and second posts, we suggest that you do so before reading this one.
+Until now in our blog posts we discussed the benefits of nearshoring, key success and failure factors for nearshoring and case studies related to nearshoring. In this blog we discuss the future of nearshoring.
 
-## what is nearshoring?
-Nearshoring is outsourcing software development to vendors/companies in near by country with respect to home country of the firm. This is often (not necessarily) a country sharing border with the home country. It can be regarded as opposite of Farshoring.
+In the last two-decade nearshoring has caught up some speed world-wide, especially in Europe. Regions like Central and Eastern Europe regions have been popular candidates for nearshoring for Western Europe [1]. Another example is Mexico, where operations from the USA are being increasingly nearshored. The nearshoring approach does not necessarily provide the biggest cost-savings but is associated with lower risks and more control over product. A study [2] of nearshoring activities by Scandinavian countries in Lithuania shows that nearshoring is no longer driven only by cost minimisation, but more by access to strategic assets, markets, and Intellectual Property Rights (IPR) related factors.
 
-## What is Offshoring?
-Offshoring refers to the practice of contracting work to a vendor in a different country. Normally, it refers to a significant distance (across ocean) away from home country of organization. In this series of blog posts, we use term "offshoring" and "farshoring" in an exchangable manner.
-
-# Future of Nearshoring
-## Questions
-
-- Is nearshoring going to be the new standard of doing software development?
-- Is a combination of farshoring and nearshoring a better alternative than just farshoring or nearshoring?
-
-Until now in our blog posts we discussed the benefits of nearshoring, key success and failure factors for nearshoring and case studies related to near shoring. In this blog we discuss the future of nearshoring.
-
-In the last two-decade nearshoring has caught up some speed world-wide, especially in Europe. Regions like Central and Eastern Europe regions have been popular candidates for nearshoring for Western Europe [1]. Another example is Mexico, where operations from USA are being increasingly nearshored. The nearshoring approach does not necessarily provide biggest cost-savings but is associated with lower risks and more control over product. A study [2] of nearshoring activities by Scandinavian countries in Lithuania shows that nearshoring is no longer driven only by cost minimisation, but more by access to strategic assets, markets, and Intellectual Property Rights (IPR) related factors.
-
-Drawbacks of offshoring to distant countries also makes nearshoring a better option. Impediments such as different time-zones, cultural habits and work ethics are some of the  drawbacks. Further, we discuss some global trends that could lead to **emergence of nearshoring as a new standard for IT industry**.
+Drawbacks of offshoring to distant countries also makes nearshoring a better option. Impediments such as different time zones, cultural habits and work ethics are some of the drawbacks. Further, we discuss some global trends that could lead to the **emergence of nearshoring as a new standard for the IT industry**.
 
 ## Human Capital shortage will drive Nearshoring
 
@@ -56,7 +42,10 @@ Innovation stems from creativity, and the latter is amplified by trust. It's dif
 
 In general, offshoring has been proven to be excellent management tool when done correctly for improving cost, productivity, and quality. However, with changes in economic factors across the globe, organisations need to reconfirm their strategy. Moreover, there are many emerging attractive nearshore locations for USA and Western Europe, which will have increasing role to play in future of nearshoring. We do not suggest that far shoring will disappear as a viable strategy; however, nearshoring helps in overcoming some of the drawbacks of far shoring discussed in this blog. Rather, a consideration of nearshore support/delivery should be part of any outsourcing decisions and increasingly, we believe, organizations must diversify their portfolio of nearshore and offshore operations in order to minimise economic, operational, geopolitical and cultural risk, while optimising competencies and costs. Organizations need find flexible balance between far shore, nearshore and onsite delivery, suggesting **combination of far shoring and nearshoring** a better alternative than just far shoring or nearshoring.
 
-We discussed several factors which will likely drive the trend of nearshoring in near future. The future looks quite bright for software development nearshoring as the market will continue to grow and some companies start to think about reshoring (then settle for nearshoring). After all, nearshoring companies to be economical as well as take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
+We discussed several factors which will likely drive the trend of nearshoring in near future. The future looks quite bright for software development nearshoring as the market will continue to grow and some companies start to think about reshoring (then settle for nearshoring). After all, nearshoring enables companies to be economical and take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
+
+That concludes our series of blogposts about nearshoring in the context of Globally Distributed Software Engineering. We hope you have … 
+
 
 # References
 
