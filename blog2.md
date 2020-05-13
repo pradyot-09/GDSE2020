@@ -1,4 +1,14 @@
-# Key Success and Failure Factors of nearshoring
+---
+layout: default
+title: Key Success and Failure Factors of nearshoring
+---
+![GDSE](https://img.shields.io/badge/GDSE-Outsourcing-brightgreen)
+[![Part 1](https://img.shields.io/badge/-Part%201-blue)](https://pradyot-09.github.io/GDSE2020/blog1)
+[![Part 2](https://img.shields.io/badge/-Part%202-red)](https://pradyot-09.github.io/GDSE2020/blog2)
+[![Part 3](https://img.shields.io/badge/-Part%203-blue)](https://pradyot-09.github.io/GDSE2020/blog3)
+
+*Authors: Bart Roseboom, Pradyot Patil, Purvesh Baghele, Sander Østvik*
+
 ## Nearshoring in the context of GDSE: Part 2
 
 This is the second post in a series of three blog posts about nearshoring in the context of globally distributed software engineering. The previous post gave an introduction to the concept of nearshoring, compared it to the more traditional offshoring, and further explained how nearshoring can be beneficial in terms of minimizing cultural distances. If you haven’t read it yet, or just want to recap your memory, you can read it [here](https://github.com/pradyot-09/GDSE2020/blob/master/blog1.md). This post will showcase some of the success factors of nearshoring, along with some factors that can potentially turn into failure factors if they are not taken into consideration. Furthermore we are presenting a case study of Softtek, a Mexico-based IT company that has really found success through the use of nearshoring.
