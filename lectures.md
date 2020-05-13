@@ -37,3 +37,49 @@ Literature research completeness?
 - look for missed papers (snowballing, random searching -> improve search)
 - reproducibility
  
+ # Lecture 4
+
+ ## C-suite/executive decision factors
+ - Georgraphical location (far vs near)
+ - Time Differences (disadvantages AND advantages)
+ - Cost differences (advantageous or is it really?)
+ - Laws/regulation - esp. IPR regulation
+ - Impact onshore (home company)
+ - Fail/stop - insource again (reshore)
+ - Market tactics and strategy (only longer term)
+ - Social/environmental responsibilities
+ - track record of the company and/or country
+ - National political aspects (political stability)
+
+ serge : small far
+ sander: big near
+ Gerben : big far
+
+## Small company , Nearshore
+    1) How do you see us? How important are we are for them?
+    2) How do they see their future?
+    3) How are they organized? How does your daily way of working look like
+    4) How does travelling look like during our collaboration?
+
+## Small company, offshore
+    1) Estimation of the labour cost?
+    2) what are the competencies of the people/company
+    3) what technologies are used by them esp. for communication.
+    4) track record / experience of working with similar companies.
+    5) Attrition number? talk to engineers about their future with vendor
+    
+## Large Company, nearshore
+ 1) Experience with large comapnies?     
+ 2) How handle with being one of several suppliers?
+ 3) Working methods etc. Methods : agile
+ 4) Security measures and practices
+ 5) How important are we for them? are we the number one?
+ 6) Growth/recruitment opportunities for those suppliers
+
+ ## Large Company, offshore
+ 1) Trustworthyness of the of the potential partner?
+ 2) Size of vendore, future plans
+ 3) IPR/ legals.etc. detailed contractual things need clarity
+ 4) Structure and daily operations
+ 5) HR career development -> how they guide employees during personal growth
+  
