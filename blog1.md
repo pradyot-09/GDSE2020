@@ -1,4 +1,8 @@
-# Nearshoring? I thought it was called offshoring?
+---
+layout: default
+title: Deep Learning: Reproducibility Project
+---
+
 ## Nearshoring in the context of GDSE: Part 1
 
 Hi folks! We are a group of 4 students currently doing our masters in Computer Science at TU Delft. As a part of our contribution to the Body of Knowledge of Globally Distributed Software Engineering, we've come up with a three series blog on the topic of success and failure factors for offshoring and nearshoring. We will be addressing this topic in the context of Globally Distributed Software Engineering. As we progress through the blogs, we'll address the contrast between nearshoring and offshoring, the success and failure factors, a case study, and the future scope but with overall more focus on nearshoring. But first let's understand what nearshoring and offshoring really is.
