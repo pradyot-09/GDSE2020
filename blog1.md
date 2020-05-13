@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Deep Learning: Reproducibility Project
+title: Nearshoring? I thought it was called offshoring?
 ---
 ![GDSE](https://img.shields.io/badge/GDSE-Outsourcing-brightgreen)
 [![Part 1](https://img.shields.io/badge/-Part%201-red)](https://pradyot-09.github.io/GDSE2020/blog1)
