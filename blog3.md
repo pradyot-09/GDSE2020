@@ -44,7 +44,7 @@ In general, offshoring has been proven to be excellent management tool when done
 
 We discussed several factors which will likely drive the trend of nearshoring in near future. The future looks quite bright for software development nearshoring as the market will continue to grow and some companies start to think about reshoring (then settle for nearshoring). After all, nearshoring enables companies to be economical and take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
 
-That concludes our series of blogposts about nearshoring in the context of Globally Distributed Software Engineering. We hope you have … 
+That concludes our series of blogposts about nearshoring in the context of Globally Distributed Software Engineering. We hope you have enjoyed the blog post series and learned something new that you can take with you! 
 
 
 # References
