@@ -3,7 +3,7 @@
 ## Nearshoring in the context of GDSE: Part 3
 
 
-This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our first and second posts, we suggest that you do so before reading this one.
+This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our [first](https://github.com/pradyot-09/GDSE2020/blob/master/blog1.md) and [second](https://github.com/pradyot-09/GDSE2020/blob/master/blog2.md) posts, we suggest that you do so before reading this one.
 Until now in our blog posts we discussed the benefits of nearshoring, key success and failure factors for nearshoring and case studies related to nearshoring. In this blog we discuss the future of nearshoring.
 
 In the last two-decade nearshoring has caught up some speed world-wide, especially in Europe. Regions like Central and Eastern Europe regions have been popular candidates for nearshoring for Western Europe [1]. Another example is Mexico, where operations from the USA are being increasingly nearshored. The nearshoring approach does not necessarily provide the biggest cost-savings but is associated with lower risks and more control over product. A study [2] of nearshoring activities by Scandinavian countries in Lithuania shows that nearshoring is no longer driven only by cost minimisation, but more by access to strategic assets, markets, and Intellectual Property Rights (IPR) related factors.
@@ -44,7 +44,7 @@ In general, offshoring has been proven to be excellent management tool when done
 
 We discussed several factors which will likely drive the trend of nearshoring in near future. The future looks quite bright for software development nearshoring as the market will continue to grow and some companies start to think about reshoring (then settle for nearshoring). After all, nearshoring enables companies to be economical and take advantage of highly skilled talent that they might not otherwise be able to access. And since talent shortages are only going to get worse, it looks like software development outsourcing teams are going to become increasingly valuable.
 
-That concludes our series of blogposts about nearshoring in the context of Globally Distributed Software Engineering. We hope you have enjoyed the blog post series and learned something new that you can take with you! 
+That concludes our series of blog posts about nearshoring in the context of Globally Distributed Software Engineering. We hope you have enjoyed the series and learned something new that you can take with you! 
 
 
 # References
