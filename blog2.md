@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Key Success and Failure Factors of nearshoring
+title: Nearshoring? I thought it was called offshoring?
 ---
 ![GDSE](https://img.shields.io/badge/GDSE-Outsourcing-brightgreen)
 [![Part 1](https://img.shields.io/badge/-Part%201-blue)](https://pradyot-09.github.io/GDSE2020/blog1)
@@ -8,6 +8,8 @@ title: Key Success and Failure Factors of nearshoring
 [![Part 3](https://img.shields.io/badge/-Part%203-blue)](https://pradyot-09.github.io/GDSE2020/blog3)
 
 *Authors: Bart Roseboom, Pradyot Patil, Purvesh Baghele, Sander Østvik*
+
+# Key Success and Failure Factors of nearshoring
 
 ## Nearshoring in the context of GDSE: Part 2
 
