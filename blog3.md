@@ -15,7 +15,7 @@ title: Nearshoring? I thought it was called offshoring?
 ## Nearshoring in the context of GDSE: Part 3
 
 
-This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our [first](https://github.com/pradyot-09/GDSE2020/blob/master/blog1.md) and [second](https://github.com/pradyot-09/GDSE2020/blob/master/blog2.md) posts, we suggest that you do so before reading this one.
+This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our [first](blog1.md) and [second](blog2.md) posts, we suggest that you do so before reading this one.
 Until now in our blog posts we discussed the benefits of nearshoring, key success and failure factors for nearshoring and case studies related to nearshoring. In this blog we discuss the future of nearshoring.
 
 In the last two-decade nearshoring has caught up some speed world-wide, especially in Europe. Regions like Central and Eastern Europe regions have been popular candidates for nearshoring for Western Europe [1]. Another example is Mexico, where operations from the USA are being increasingly nearshored. The nearshoring approach does not necessarily provide the biggest cost-savings but is associated with lower risks and more control over product. A study [2] of nearshoring activities by Scandinavian countries in Lithuania shows that nearshoring is no longer driven only by cost minimisation, but more by access to strategic assets, markets, and Intellectual Property Rights (IPR) related factors.
@@ -61,19 +61,19 @@ That concludes our series of blog posts about nearshoring in the context of Glob
 
 # References
 
-[1]: Micek, G., DziaŁek, J., & Górecki, J. (2011). The discourse and realities of offshore business services to Kraków. European Planning Studies, 19(9), 1651–1668. [link](https://doi-org.tudelft.idm.oclc.org/10.1080/09654313.2011.586195)
+[1] Micek, G., DziaŁek, J., & Górecki, J. (2011). The discourse and realities of offshore business services to Kraków. European Planning Studies, 19(9), 1651–1668. [link](https://doi-org.tudelft.idm.oclc.org/10.1080/09654313.2011.586195)
 
-[2]: Slepniov, Dmitrij & Brazinskas, Sigitas & Waehrens, Brian. (2013). Nearshoring practices: An exploratory study of Scandinavian manufacturers and Lithuanian vendor firms. Baltic Journal of Management. 8. 10.1108/17465261311291632, [link](https://www.researchgate.net/publication/263103692_Nearshoring_practices_An_exploratory_study_of_Scandinavian_manufacturers_and_Lithuanian_vendor_firms)
+[2] Slepniov, Dmitrij & Brazinskas, Sigitas & Waehrens, Brian. (2013). Nearshoring practices: An exploratory study of Scandinavian manufacturers and Lithuanian vendor firms. Baltic Journal of Management. 8. 10.1108/17465261311291632, [link](https://www.researchgate.net/publication/263103692_Nearshoring_practices_An_exploratory_study_of_Scandinavian_manufacturers_and_Lithuanian_vendor_firms)
 
-[3]: Benedetta Piatanesi and Josep‐Maria Arauzo‐Carod. (2019) . Backshoring and nearshoring: An overview [link](https://doi-org.tudelft.idm.oclc.org/10.1111/grow.12316)
+[3] Benedetta Piatanesi and Josep‐Maria Arauzo‐Carod. (2019) . Backshoring and nearshoring: An overview [link](https://doi-org.tudelft.idm.oclc.org/10.1111/grow.12316)
 
 [4] NetConsulting. (2014). Il nearshoring made in Italy. Opportunità e vantaggi. [link](https://d3alc7xa4w7z55.cloudfront.net/static/upload/protected/201/0108/2014focusfinconscs_whitepapernearshore.pdf)
 
-[5]: Jen DuBois. Is There a Data Scientist Shortage in 2019? [link](https://quanthub.com/is-there-a-data-scientist-shortage-in-2019/)
+[5] Jen DuBois. Is There a Data Scientist Shortage in 2019? [link](https://quanthub.com/is-there-a-data-scientist-shortage-in-2019/)
 
-[6]: Allan Seeman. Why is Nearshoring a Smart Alternative for Software Development? [link](https://webcreek.com/en/blog/business/nearshoring-software-development-smart-alternative/)
+[6] Allan Seeman. Why is Nearshoring a Smart Alternative for Software Development? [link](https://webcreek.com/en/blog/business/nearshoring-software-development-smart-alternative/)
 
-[7]: Khan, Arif & Keung, Jacky & Hussain, Shahid & Bennin, Kwabena. (2015). Effects of Geographical, Socio-cultural and Temporal Distances on Communication in Global Software Development during Requirements Change Management: A Pilot Study. ENASE 2015 - Proceedings of the 10th International Conference on Evaluation of Novel Approaches to Software Engineering. [link](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0005331401590168). 
+[7] Khan, Arif & Keung, Jacky & Hussain, Shahid & Bennin, Kwabena. (2015). Effects of Geographical, Socio-cultural and Temporal Distances on Communication in Global Software Development during Requirements Change Management: A Pilot Study. ENASE 2015 - Proceedings of the 10th International Conference on Evaluation of Novel Approaches to Software Engineering. [link](http://www.scitepress.org/DigitalLibrary/Link.aspx?doi=10.5220/0005331401590168). 
 
-[8]: PSL Corp. IT Outsourcing: A Look at What the Future Holds. [link](https://www.pslcorp.com/nearshoring-outsourcing/it-outsourcing-a-look-at-what-the-future-holds-1/)
+[8] PSL Corp. IT Outsourcing: A Look at What the Future Holds. [link](https://www.pslcorp.com/nearshoring-outsourcing/it-outsourcing-a-look-at-what-the-future-holds-1/)
 
