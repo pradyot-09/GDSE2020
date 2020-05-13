@@ -2,6 +2,12 @@
 layout: default
 title: Deep Learning: Reproducibility Project
 ---
+![GDSE](https://img.shields.io/badge/GDSE-Outsourcing-brightgreen)
+[![Part 1](https://img.shields.io/badge/-Part%201-red)](https://pradyot-09.github.io/GDSE2020/blog1)
+[![Part 2](https://img.shields.io/badge/-Part%202-blue)](https://pradyot-09.github.io/GDSE2020/blog2)
+[![Part 3](https://img.shields.io/badge/-Part%203-blue)](https://pradyot-09.github.io/GDSE2020/blog3)
+
+*Authors: Bart Roseboom, Pradyot Patil, Purvesh Baghele, Sander Østvik*
 
 ## Nearshoring in the context of GDSE: Part 1
 
