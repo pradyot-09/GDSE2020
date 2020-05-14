@@ -18,6 +18,10 @@ title: Nearshoring? I thought it was called offshoring?
 This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our [first](blog1.md) and [second](blog2.md) posts, we suggest that you do so before reading this one.
 Until now in our blog posts we discussed the benefits of nearshoring, key success and failure factors for nearshoring and case studies related to nearshoring. In this blog we discuss the future of nearshoring.
 
+![Future of Nearshoring](images/Future.jpg)
+
+*Image credit: [EFTA](https://www.efta.int/About-EFTA/news/EEA-EFTA-Comment-BEREC-proposal-505341)*
+
 In the last two-decade nearshoring has caught up some speed world-wide, especially in Europe. Regions like Central and Eastern Europe regions have been popular candidates for nearshoring for Western Europe [1]. Another example is Mexico, where operations from the USA are being increasingly nearshored. The nearshoring approach does not necessarily provide the biggest cost-savings but is associated with lower risks and more control over product. A study [2] of nearshoring activities by Scandinavian countries in Lithuania shows that nearshoring is no longer driven only by cost minimisation, but more by access to strategic assets, markets, and Intellectual Property Rights (IPR) related factors.
 
 Drawbacks of offshoring to distant countries also makes nearshoring a better option. Impediments such as different time zones, cultural habits and work ethics are some of the drawbacks. Further, we discuss some global trends that could lead to the **emergence of nearshoring as a new standard for the IT industry**.
