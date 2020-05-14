@@ -306,3 +306,53 @@ Automation scales all of the above problems with capabilities of **disaster reco
 3) Cooperation and collaboration. Keep everyone aligned and updated
 
 #### Interview : Svejna de Vos
+
+## Module 5
+
+### Offshoring and cost savings (Darja Smite)
+- In 90% of offshoring cases it's all about costs
+
+- Cost saving achieved
+  - Relatively simple, basic projects
+  - Well-defined deliverables that require little management
+  - Individual processes, such as test automation
+  - Occasionally complex development tasks can yield successful results and decrease costs
+
+- Cost savings not achieved
+  - Complex projects
+  - projects that require great expertise, domain specific or highly technical projects
+  - Follow-the-sun development was quite unsuccessful
+  
+### Why Cost savings are not achieved ? 
+- Costs of selecting a vendor
+- costs of managing the contract
+- Contracted-based personal cost
+
+ **Hidden Costs**
+ - underestimated Travel costs
+ - knowledge transfer costs
+ - ramp-up costs
+ - costs of layoffs
+ - retaining costs
+ - cotrol costs
+ - Extra documentation and more detailed design/specification costs
+ - Costs of mentoring and support
+ - Costs associated with low productivity
+ 
+ ### Bottomline cost of offshoring in "SwedCo" 
+ ### Good reasons to engage in offshoring
+ - Offload non-core functions
+ - Get access to specialized skill
+ - Get access to a specific market
+ - customize products to a specific market
+ - Establish long-term, strategic relationship with world-class service providers to gain a competitive edge
+ - Enhance tactical and strategic advantages
+ 
+ ### None of offshoring benefits can be taken for granted
+ 1) Leveraging time zone effectiveness -> reduced collaborative time window
+ 2) Access to large skilled labor pool -> Extremely high attrition rate, socio-cultural problems
+ 3) Innovation and shared best practice -> Fear and distrust make developers reluctant to share more than necessary.
+ 
+ Not all projects are suitable for offshooring
+ 4) Closer proximity to market and cutomer -> cultural problems
+ 
