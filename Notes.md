@@ -352,7 +352,46 @@ Automation scales all of the above problems with capabilities of **disaster reco
  1) Leveraging time zone effectiveness -> reduced collaborative time window
  2) Access to large skilled labor pool -> Extremely high attrition rate, socio-cultural problems
  3) Innovation and shared best practice -> Fear and distrust make developers reluctant to share more than necessary.
+ 4) Closer proximity to market and cutomer -> cultural problems
  
  Not all projects are suitable for offshooring
- 4) Closer proximity to market and cutomer -> cultural problems
+ 
+ ### SwedCo Case Study
+ - Problematic cases for offshoring
+  1) Large scale distributed software development
+  2) software is complex and is legacy system
+  
+  1 hour development costs in India 25% of Sweden
+  
+  extra cost per employee:
+  - Knowledge transfer
+  - travel relocation
+  - mentoring and support
+  
+  others : cost of process documentation, admin. cost, cost of quality control, rescue cost, extra hardware cost
+  
+new and immature team is less productive compared to experienced team. The new team takes time to learn (1 or 2 years), this cost is not taken into consideration by companies.
+
+**High Attrition** rate has impact on prodductivity and learning rate.
+
+**Long learning curve** along with high attrition rate is deadly combination.
+ 
+ ### Lecture by David Redmiles
+
+#### Challenges in Globally Distributed world
+- Isolation prevents knowing what others are doing
+- Lack of awareness also prevents knowing why they are doing or not doing something
+- Distance prevents familiarity both professional and personal
+
+#### Enhance awareness
+- how do people know **to whom** they should display actions and whose action should they monitor?
+- The **awareness network** is the set of actors whose actions need to be monitored and those to whom one needs to make one's own action visible.
+
+There are a lot of adhoc tools and work going on to make work more visible. Software tool to visualize who's doing what helps.
+
+- Personal chat or cheap chat (not work related) can help in building trust and a better cooperation.
+
+- Drawing at work experiment : Dividing teams to draw a drawing, for some teams a particular drawing and for other teams freestyle drawing. Overall there was positive affect on team and cohesion. However, in case of freestyle drawing positive effect and cohesion improved. 
+
+Enahncing the techincal side by **Maintaining and enhancing** the personal dimension is important.
  
