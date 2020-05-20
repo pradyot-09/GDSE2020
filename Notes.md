@@ -395,3 +395,44 @@ There are a lot of adhoc tools and work going on to make work more visible. Soft
 
 Enahncing the techincal side by **Maintaining and enhancing** the personal dimension is important.
  
+## Module 6
+
+Time and culture differences in GDSE (By Dianne Elsinga)
+
+### Culture in Global Software Engineering
+
+Team members in Netherlands and Bangalore
+
+![Google's Team Effectiveness Model](images/google_team.png)
+
+![Lencioni's Team Effectiveness Model](images/team_effectiveness.png)
+
+- A leader sets up ways to connect and align team members with each other
+
+How to deal with culture difference teams?
+- Use Culture Map (by Erin Meyer) and do culture training 
+- Consciously deal with lowering the social and emotional differences
+- Trust and Safety grow if there is awareness and understanding on both sides
+
+### Building a great globally distributed team
+- Kick off : get to know each other activities personally and professionally (define greatness)
+- do cultural awareness by creating culture map
+- Team Vision(why) : is a sentence that inspires whole team everyday
+  (Use golden circle of Simon Sinek: Why,How, what?)
+- Team Values(how) : Use leader intervention to avoid lencion's team dysfunctions
+- Team Working Agreements and Manifesto: (methods of collaboration,meeting etc)
+Day 2
+- Product Definition (using product vision board of Roman Pichler) to help think and figure out benefits. ALso define the Minimum viable product with stakeholder(customers,prodcut owners etc)
+
+
+![Roman Pichler's Product vision board](images/product-board.jpg)
+
+### High performing Global Teams
+Team = Product
+- Technology is the base of HP team (level 0)
+- Aligned team : create clarity, agreements and collaboration over distance (level 1) (Daily standup meetings help)
+- Engaged Team : Fostering of trust and openness (Level 2)
+- Cross-functional team: attain all required skills to deliver a releasable increment every sprint (Level 3) (Guild meetings can help)
+- Self-Steering Team: Team has ownership of the work process, progress and results. self driven and highly motivated teams.(Level 4)
+- High Performing Team: The team is completely atuned, "Power of Ba"
+- 
