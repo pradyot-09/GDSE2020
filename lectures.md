@@ -83,3 +83,43 @@ Literature research completeness?
  4) Structure and daily operations
  5) HR career development -> how they guide employees during personal growth
   
+  # Lecture 5
+  ## Direct cost factors GDSE
+Cost that can be directly related to individual engineer:
+- Salary (including allowance, bonuses)
+- Insurances/pension funds
+- Computer
+- Individual software licenses
+- Personnel equipment (ID badges, flash drives, etc.)
+- Education costs
+- Travel costs (car, accommodation, public transport etc.)
+- Recruitment costs
+- Taxes
+
+## Overhead/shared cost factors GDSE
+Cost that are shared by all engineers together:
+    - Office space
+    - Drinking / eating facilities (e.g. microwave, lunch)
+    - Leisure facilities (ping pong tables)
+    - Office servers / local development servers 
+- Infrastructure
+    - Servers for communications (Slack, Mattermost, Steam :) etc)
+    - Cloud storage
+    - CI/CD servers
+    - Firewalls
+    - Hosting
+
+- Software licenses
+- Security (alarms, access cards / keys, Yubi keys, cameras)
+- Company taxes
+- Team building activities / parties (employee union)
+- Management, support, HR, marketing, legal, finance, cleaning
+
+## Indirect cost factors GDSE
+Cost that cannot be directly related but do have impact:
+- Learning curves
+- Attrition
+- Training and learning costs
+- Miscommunication leading to REWORK
+- Legal costs, hiring lawyersa
+- Unforeseen events(pandemic, political issues)
