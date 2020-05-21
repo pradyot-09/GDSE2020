@@ -431,8 +431,21 @@ Day 2
 Team = Product
 - Technology is the base of HP team (level 0)
 - Aligned team : create clarity, agreements and collaboration over distance (level 1) (Daily standup meetings help)
-- Engaged Team : Fostering of trust and openness (Level 2)
+- Engaged Team : Fostering of trust and openness,cultural awareness (Level 2)
 - Cross-functional team: attain all required skills to deliver a releasable increment every sprint (Level 3) (Guild meetings can help)
 - Self-Steering Team: Team has ownership of the work process, progress and results. self driven and highly motivated teams.(Level 4)
-- High Performing Team: The team is completely atuned, "Power of Ba"
-- 
+- High Performing Team: The team is completely atuned, "Power of Ba",knows the impact of work
+
+### Working Across Time Zones By Erran Carmel
+- 4 time zones in USA
+- One in China
+- Ten time Zones in Russia(earlier 11)
+
+Biggest hurdle caused by temporal distance
+- When we need to do complex task there is a need to converege (interact in real time)
+Types of complex task : (1) Creativity, ideas 2) Disagreement
+
+Three terms :
+- Nomadism: work rom any geographic location
+- Scatter time : spread out your work across the workday
+- Timeshifting : adjust wok hours to overlap time 
