@@ -17,7 +17,7 @@ Hi folks! We are a group of 4 students currently doing our masters in Computer S
 
 If you would like to quickly jump to a topic within this blog post, you can do so here:
 * [Concepts within outsourcing](#concepts-within-outsourcing)
-* [Why nearshoring?](#why-nearshoring?)
+* [Why nearshoring?](#why-nearshoring)
 * [Nearshoring vs offshoring](#nearshoring-vs-offshoring)
 * [Cultural difference](#cultural-difference)
 
