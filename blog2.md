@@ -15,6 +15,12 @@ title: Nearshoring? I thought it was called offshoring?
 
 This is the second post in a series of three blog posts about nearshoring in the context of globally distributed software engineering. The previous post gave an introduction to the concept of nearshoring, compared it to the more traditional offshoring, and further explained how nearshoring can be beneficial in terms of minimizing cultural distances. If you haven’t read it yet, or just want to recap your memory, you can read it [here](blog1.md). This post will showcase some of the success factors of nearshoring, along with some factors that can potentially turn into failure factors if they are not taken into consideration. Furthermore we are presenting a case study of Softtek, a Mexico-based IT company that has really found success through the use of nearshoring.
 
+If you would like to quickly jump to a topic within this blog post, you can do so here:
+* [Success factors](#success-factors)
+* [Other factors to keep in mind](other-factors-to-keep-in-mind)
+* [Case Study – Softtek](#case-study-–softtek)
+
+
 ![Success and failure factors](images/success.jpg)
 
 *Image credits: [NEA](https://www.arts.gov/art-works/2016/art-failure)*
