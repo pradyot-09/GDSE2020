@@ -46,6 +46,9 @@ Furthermore, wages are not the only costs a company has. As our second post will
 
 There are also cases that a product takes longer to build than intended, or work needs to be redone, leading to extra working hours, etc. The key factors in most of these situations that can turn into costs for the company is the lack of proper infrastructure and communication, between the off- or nearshore locations and the company’s “homebase”.
 Whether it is better for a company to choose offshoring or nearshoring really differs per company, because every company has its own interests. In order for a company to find out what fits best for them, they would need to do research themselves in order to find out what fits their interests the best.
+
+![Globalization](images/globalization.jpg)
+*Image credits: [MetalMiner](https://agmetalminer.com/2016/12/05/how-much-is-globalisation-to-blame-for-job-losses/)*
  
 ### Cultural difference
 We have mentioned the importance of cost and communication when it comes to outsourcing work, but another very important factor when outsourcing is the cultural difference. Most people will know that there is a big difference in culture when it comes to western countries, like the United States or Germany, and Asian countries, like India and China, but how does this transfer to nearshoring? Is there still a cultural difference even in countries that are really close to one another?
