@@ -40,6 +40,10 @@ The same study stresses that face-to-face meetings are considered **irreplaceabl
 #### Being closer to the customer
 While the previous three factors have been explained in a way that sheds light on the impact they provide on working distributed, it is also possible to look at them from a more business-minded point of view. By nearshoring, you expand your business organization to not just be located in one place, which allows you to potentially be **closer to some of your customers**. If a company is serving customers located in the nearshoring vendors’ region, the vendor can be responsible for the communication with the customer. This allows for the time zone-, cultural- and language-differences to be minimized between the company and the customer. In turn, the barrier to spending time onsite and conducting face-to-face meetings with the customer is lowered, and this is a crucial component to a project’s success[1]. 
 
+![Other factors to keep in mind](images/thinking.jpg)
+
+*Image credits: [GO EU](https://goeucommerce.com/top-5-things-to-take-into-consideration-selling-cross-border-into-europe/)*
+
 ### Other factors to keep in mind
 The following factors are not directly success factors, but rather factors that should be kept in mind when selecting a location and vendor for nearshoring, as if they are not paid attention to could turn into failure factors.
 
@@ -51,6 +55,10 @@ Another reason for wanting to outsource besides reducing costs is the need for a
 
 #### Protection of intellectual property and local laws and regulations
 Something that might not be the first thing to spring to mind as an important factor in outsourcing work, is the potential differences within the laws present in the outsourceable countries. This is however stated to be one of the big barriers when selecting an outsourcing vendor[6]. With it being such a big barrier, it is really important that you make sure that you know all about the laws set in the country you would like to outsource your work to, in order to prevent potential fines or even intellectual property theft. Now that we have seen some of the key success and failure factors, we will take a look at an example of a company that has successfully implemented nearshoring.
+
+![Case Study](images/magnifyingglass.jpg)
+
+*Image credits: [GoodFon](https://www.goodfon.com/wallpaper/vzglyad-lupa-lyudi-paren-glaz.html)*
 
 ### Case Study – Softtek
 
