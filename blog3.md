@@ -18,6 +18,12 @@ title: Nearshoring? I thought it was called offshoring?
 This is the third and final post in a series of blog posts about nearshoring in the context of globally distributed software engineering. If you haven’t read our [first](blog1.md) and [second](blog2.md) posts, we suggest that you do so before reading this one.
 Until now in our blog posts we discussed the benefits of nearshoring, key success and failure factors for nearshoring and case studies related to nearshoring. In this blog we discuss the future of nearshoring.
 
+If you would like to quickly jump to a topic within this blog post, you can do so here:
+* [Human Capital shortage will drive Nearshoring](#human-capital-shortage-will-drive-nearshoring)
+* [Increasing Automation](#increasing-automation)
+* [Quality Control and Security](#quality-control-and-security)
+* [Geographical Proximity and Need of Increased Integration into Organisation](#geographical-proximity-and-need-of-increased-integration-into-organisation)
+
 ![Future of Nearshoring](images/Future.jpg)
 
 *Image credit: [EFTA](https://www.efta.int/About-EFTA/news/EEA-EFTA-Comment-BEREC-proposal-505341)*
