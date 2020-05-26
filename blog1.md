@@ -47,7 +47,7 @@ Furthermore, wages are not the only costs a company has. As our second post will
 There are also cases that a product takes longer to build than intended, or work needs to be redone, leading to extra working hours, etc. The key factors in most of these situations that can turn into costs for the company is the lack of proper infrastructure and communication, between the off- or nearshore locations and the company’s “homebase”.
 Whether it is better for a company to choose offshoring or nearshoring really differs per company, because every company has its own interests. In order for a company to find out what fits best for them, they would need to do research themselves in order to find out what fits their interests the best.
 
-![Globalization](images/globalization.jpg)
+![Globalization](images/Globalization.jpg)
 *Image credits: [MetalMiner](https://agmetalminer.com/2016/12/05/how-much-is-globalisation-to-blame-for-job-losses/)*
  
 ### Cultural difference
