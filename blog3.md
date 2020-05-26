@@ -44,6 +44,10 @@ In Central and Eastern Europe, there is flexible human capital with a very high 
 
 Moreover, developing AI and ML based software needs workforce with expertise such as Data Scientists and Engineers. With more and more organisations gathering data and hunting for data scientists, acute shortage of highly skilled data scientists [5] is a persisting barrier and is going to be one of the major problems in future. This barrier further fuels the impetus for organisation to outsource AI/ML development. However, with AI being used to solve customer problems, organisations require data scientists to grasp company specific environment and all its nuances in order develop a product fit for the customer use case. For the above purpose nearshoring approach fits perfectly; more overlapping work hours, less difference in culture and work ethics makes it easy to collaborate. 
 
+![Quality Control and Security](images/security.jpg)
+
+*Image credit: [betanews](https://betanews.com/2015/06/01/google-privacy-security-settings/)*
+
 ## Quality Control and Security
 
 Due to rising need of rapid adaptation to customer demands, stricter quality controls and intellectual property protection; IT services and software development companies might look forward to nearshoring their activities [3].
