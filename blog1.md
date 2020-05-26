@@ -16,13 +16,14 @@ title: Nearshoring? I thought it was called offshoring?
 Hi folks! We are a group of 4 students currently doing our masters in Computer Science at TU Delft. As a part of our contribution to the Body of Knowledge of Globally Distributed Software Engineering, we've come up with a three series blog on the topic of success and failure factors for offshoring and nearshoring. We will be addressing this topic in the context of Globally Distributed Software Engineering. As we progress through the blogs, we'll address the contrast between nearshoring and offshoring, the success and failure factors, a case study, and the future scope but with overall more focus on nearshoring. But first let's understand what nearshoring and offshoring really is.
 
 If you would like to quickly jump to a topic within this blog post, you can do so here:
-* [Concepts within outsourcing](#why-nearshoring?)
-* [Why nearshoring?](https://github.com/pradyot-09/GDSE2020/blob/master/blog1.md#nearshoring-in-the-context-of-gdse-part-1)
-* [Nearshoring vs offshoring](https://github.com/pradyot-09/GDSE2020/blob/master/blog1.md#nearshoring-in-the-context-of-gdse-part-1)
-* [Cultural difference](https://github.com/pradyot-09/GDSE2020/blob/master/blog1.md#cultural-difference)
+* [Concepts within outsourcing](#concepts-within-outsourcing)
+* [Why nearshoring?](#why-nearshoring?)
+* [Nearshoring vs offshoring](#nearshoring-vs-offshoring)
+* [Cultural difference](#cultural-difference)
 
 ![wordcloud](images/wordcloud.png)
 
+### Concepts within outsourcing
 We can say that outsourcing has given birth to Globally Distributed Software Engineering  (GDSE). Outsourcing can be formally defined as engaging with third-party vendors on a contract basis to deliver a specific deliverable. In the context of software engineering, outsourcing involves the transfer of software development activities of an IT firm. The aim is to focus on business value, scale up software development and reduction in services supplied internally within the company. 
 
 **Outsourcing** is usually operated with the aim of gaining cost benefits. Especially development and fixed costs can be reduced significantly. For example, if a company is more focused on business matters and strengthening its creativity, outsourcing software development to a company who specialises in this sector could allow the business to minimise additional costs and improve quality. As a consequence, the company can improve its market position, on both strategic and functional levels.
