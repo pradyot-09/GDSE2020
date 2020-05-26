@@ -17,8 +17,8 @@ This is the second post in a series of three blog posts about nearshoring in the
 
 If you would like to quickly jump to a topic within this blog post, you can do so here:
 * [Success factors](#success-factors)
-* [Other factors to keep in mind](other-factors-to-keep-in-mind)
-* [Case Study – Softtek](#case-study-–softtek)
+* [Other factors to keep in mind](#other-factors-to-keep-in-mind)
+* [Case Study – Softtek](#case-study--softtek)
 
 
 ![Success and failure factors](images/success.jpg)
