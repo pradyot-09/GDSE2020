@@ -449,3 +449,71 @@ Three terms :
 - Nomadism: work rom any geographic location
 - Scatter time : spread out your work across the workday
 - Timeshifting : adjust wok hours to overlap time 
+
+## Module 7
+
+GDSE locations: Near-shoring and Offshoring
+###  Daily life of a Distributed Software Engineer - Maran Gunasekaran
+- start with coffee/tea and greet team-mates
+- pickup writing code from whereit was brought to a logical end
+- Gather for the Daily Scrum meeting to synchronize plans for the day and measure progress
+- If iteration planning day : start planning the work for iteration
+  if iteration end : showcase the business value being deilvered and seek feedback from business owners and stakeholders.
+- Calls with business owners, use of tons of bandwidth
+- start next iterations planning meeting on last day of previous iteration
+
+### Tools for distributed software engineer
+
+tools for work or backlog management 9managing iterations , bug tracking and features):
+Jira, trello, Agile Cockpit, Version one
+
+Chatroom and video conferencing:
+Slack, Skype for Business, Microsoft Teams, appear.in, Bluejeans, interactive whiteboards, TeamViewer
+
+Knowledge sharing and collaboration: 
+internal wiki pages, confluence, Microsoft SharePoint
+
+tools SCM :
+Bitbucket,GitHub, Visual Studio Online, Jenkins, Travis, JFrog artifactory
+
+Tools : Hardware
+ - Video conferencing camera with a panoramic/360 view
+ - Flat TV screens at least 50 inch with camera mount
+ - Developer machines with camera, headphones and mic
+ 
+ 
+ ### Do's and Dont's for Distributed software engineers
+ - Share holiday calendars and leave plans
+ - Make tiny checkins of code multiple times a day or at the very least during the end of the day
+ - Meet face to face as much as possible
+ - Organize tech talks between distributed teams
+ - Maintain transparency with the business owners
+ 
+ Dont's
+ - Don't wait for email responses
+ - Don't context switch and let others context switch either
+ - Don't do it all alone
+ - Don't let distance determine wheter to give critical feedback or not
+ - Don;t be subjective
+ 
+ 
+ ## Developments in Country Selection - Paul Tija
+ 
+is country selection important?
+- Not important if case of small and low-risk projects
+- very important inncase of own subsidiary
+- geopolitical considerations
+Important factors : wages and costs, the industry, quality of life, infrastructure, Human Capital, capital, Government vision and policy, Linkages
+
+### India and Bangladesh
+India Disadvantages: 
+-accent, distance, time difference, rising tariffs, cultural differences, High turn over rate of staff
+
+Hence we see nearshoring growing for small-medium size companies
+
+### Palestine and North Korea
+
+Palestine has an additional advantage: it can give access to the Gulf markets (localization of software)
+- can also boost CSR
+
+North-Korea is cheapest in Asia for outsourcing and IT skills are good
