@@ -1,6 +1,8 @@
 
 # Globally Distributed Software Engineering
 
+*Author* : **Pradyot Patil**
+
 ## Module 1 
 
 ### Intro
@@ -46,7 +48,7 @@ GDSE involves : Distributed, technological support, globalization, cross-cultura
 - Team building practices
 - Development methodology (agile, scrum)
 
-** Paradox of GDSE ** : We need more coordination but we keep adding more location which makes it even harder to coordinate
+**Paradox of GDSE** : We need more coordination but we keep adding more location which makes it even harder to coordinate
 
 ### Cultural Differences
 
